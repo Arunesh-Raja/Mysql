@@ -284,4 +284,7 @@ inner join  region_info as r
  c.loan_id1 =l.loan_id;
  select * from final_table;
  drop table final_table;
+------
+
+
  
