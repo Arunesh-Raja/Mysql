@@ -110,11 +110,3 @@ License :
 This project is open-source and available under the MIT License.
 
 
-This README:
-
-- Gives a **professional first impression**  
-- Explains the **purpose and functionality**  
-- Shows **setup instructions** for anyone to try it out  
-- Includes **sample SQL schema & data**  
-
----
